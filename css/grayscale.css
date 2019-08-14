@@ -369,6 +369,6 @@ img::-moz-selection {
   background: url("../img/foro1.jpg") no-repeat  center scroll;
 }
 #foot{
-  background: url("../img/footerbg1.png") no-repeat top center scroll;
+  background: url("../img/footerbg.png") no-repeat top center scroll;
   height: 100px;
 }
