@@ -197,7 +197,7 @@ a:focus, a:hover {
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    background: black;
+    background: url("../img/footerbg1.png") no-repeat top left scroll;
   }
   #mainNav .nav-link.active {
     outline: none;
@@ -369,6 +369,6 @@ img::-moz-selection {
   background: url("../img/foro1.jpg") no-repeat  center scroll;
 }
 #foot{
-  background: url("../img/footerbg.png") no-repeat top center scroll;
+  background: url("../img/footerbg1.png") no-repeat top right scroll;
   height: 100px;
 }
